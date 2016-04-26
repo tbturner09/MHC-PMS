@@ -16,3 +16,8 @@ Receptionist
 the password for all of them is "password"
 These are just test account so the password is not really a concern =]
 In actual implementation users will have to create their passwords based upon a password policy.
+
+
+-----------
+Last Edited: Added .Exe to root directory for easy access. 
+
